@@ -1,0 +1,44 @@
+﻿    @import url(http://fonts.googleapis.com/earlyaccess/droidsansethiopic.css);
+
+        body {font-size : 0.8em; font-family: 'Droid Sans Ethiopic', serif !important; margin : 0px;	padding: 0px; background-color: #5a543a; padding-bottom: 20px;}
+        img {border-style:none;}
+        #rasgee {padding:6px; background:#fff url(image/backgrounds/start.gif) no-repeat 6px 6px; width:930px; height:150px; margin-right:auto; margin-left:auto;}
+        #teguaz {padding: 0 6px; width:930px; background-color:#ffffff; margin-right:auto; margin-left:auto; height:35px;}
+        #yizet {padding:32px 6px 6px 6px; width:930px; background-color:#fff; margin-right:auto; margin-left:auto; overflow:hidden;  }
+        #mawcha{padding-left:10px; width:180px; float:left; overflow:hidden; color:#a99238;}
+        #wanaYizet{padding-left:15px; min-height:400px; padding-right:10px; color:#000000; background-color:#fff; width:714px; overflow:hidden;}
+        #gojoYizet{ color:#000000; background-color:#fff; width:930px; overflow:hidden;}
+                   
+        .laymesmer {border-left:solid 2px #9fbde5; border-right: solid 2px #9fbde5; height:10px;
+                    background: url(image/backgrounds/shadowbg.png) no-repeat; width:926px;}
+        .tila {padding:10px; border-left:solid 2px #9fbde5; border-right: solid 2px #9fbde5; min-height:400px; width:906px;
+                    background: url(image/backgrounds/shadowbg.png) no-repeat 0px -50px;}
+        .tachmesmer {border-left:solid 2px #9fbde5; border-right: solid 2px #9fbde5; width:926px; height:10px;
+                    background: url(image/backgrounds/shadowbg.png) no-repeat -10px -22px;}
+        .clearten {padding:10px;}
+        .clearzero {padding:0px;}
+        .clearborder{border-style:none;}
+        .girasefef {float:left; width:250px; min-height:90px; border:solid 2px #9fbde5;}
+        .qegnsefef {float:right; width:618px; padding-bottom:3px; padding-right:5px; padding-left:5px; min-height:90px; background: url(image/backgrounds/shadowbg.png) no-repeat 0px -50px;
+                     border:solid 2px #9fbde5;}
+        #agrgee{padding-left:16px; text-align:center; clear:both; margin:0px;}
+        #mawcha h3 {font-size : 1.1em; font-weight: bold; margin : 0px; padding: 0 0 6px 0; border-style: dotted; border-width: 0px;
+                   	border-bottom-width: 1px; border-bottom-color: #dfdfdf;	margin : 0px; margin-bottom: 6px; color:#000000;}
+        #mawcha ul {list-style : none;	font-size : 0.9em;	margin: 0px; padding: 0px; 	margin-bottom: 20px;}
+        #mawcha ul li {	color: #a99238;	margin-top: 6px; margin-bottom: 6px; font-weight: bold;}
+        #mawcha ul a:link, #leftmenu ul a:visited, #leftmenu ul a:active { color: #a99238;	text-decoration: none;}
+        #mawcha ul a:hover {color: #a99238;	text-decoration: underline;}
+        .arstezena{	color: #529e00;	font-size: 1.8em; font-weight: bold; margin-bottom: 20px; margin-top: 0px;}
+        #teguazsbsb {background: #3c6767 url('../images/summer-nav-background.jpg') repeat-x;	height: 35px;}
+
+        #teguazsbsb ul{	list-style-type: none; margin: 0px; padding: 0px 0px 0px 5px; height:35px;}
+
+        #teguazsbsb li{	float: left; margin-left: 8px; margin-right: 8px; margin-top:5px; width:80px; height:25px;
+               		background-image: url('image/backgrounds/zirzir.gif');	background-repeat: no-repeat; text-align:center;
+               		background-position: 0px 0px;	padding-top:3px; font-size: 12px; font-weight: bold; }
+		#teguazsbsb a {color: #ffffff; text-decoration: none;}
+        #teguazsbsb a:link, #navbar a:visited, #navbar a:active {color: #ffffff;	text-decoration: none;}
+        #maareg {position: relative; left: 10px; top: 50px;	width: 184px; background-color:#b4d9d0; padding:10px; overflow: hidden; vertical-align:middle;	text-align: center;	font-size: 11px;}
+        #maareg h1 {font-size: 20px; margin: 0px; padding: 0px;	text-align: center;	color: #735c35}
+        #maareg a:link, #title a:visited, #title a:active, #title a:hover {color: #735c35}
+		

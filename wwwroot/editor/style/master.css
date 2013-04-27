@@ -1,0 +1,33 @@
+﻿@import url(http://fonts.googleapis.com/earlyaccess/droidsansethiopic.css);
+
+        body {font-size : 0.8em; font-family: 'Droid Sans Ethiopic', serif !important; margin : 0px;	padding: 0px; background-color: #5a543a; padding-bottom: 20px;}
+  
+#fidel
+{
+	width: 108px; background-color:#c3daf9; color:#000000; font-size:30pt; border: solid 1px #3b619c; height:48px; font-weight: bold; text-align:center;
+}
+.fidelRas
+{width: 108px; border:solid 1px #3b619c; height:16px; border-bottom:none; background:#c3daf9 url(../images/bg.gif) repeat-x 0px 0px; color:#000000; font-size:14px; text-align:center; padding:5px 0px 5px 0px;}
+#tirgum {font-size:12px; width:108px; border: solid 1px #3b619c; background-color:#ffffff;}
+#tirgum td {text-align:center;}
+#tirgum th {background-color:#d3e6fd;}
+#liyuTirgum {font-size:12px; width:108px; border: solid 1px #3b619c; background-color:#ffffff;}
+#liyuTirgum td {text-align:center;}
+#liyuTirgum th {background-color:#d3e6fd;}
+table {padding:0px;}
+td {font-size:10px; font-family:'Droid Sans Ethiopic', serif !important; color:Black;}
+        td span {font-size:8px;}
+        td .key{background: url(../images/key.png) no-repeat 0px 0px; width:30px; height:35px; padding-top:3px;}
+        td .backKey {background: url(../images/back.png) no-repeat 0px 0px; width:55px; height:35px;}
+        td .shift2 {background: url(../images/shift2.png) no-repeat 0px 0px; width:65px; height:35px;}
+        td .shift {background: url(../images/shift.png) no-repeat 0px 0px; width:55px; height:35px;}
+        td .tab {background: url(../images/tab.png) no-repeat 0px 0px; width:55px; height:35px;}
+        td .ctrl {background: url(../images/ctrl.png) no-repeat 0px 0px; width:55px; height:35px;}
+        td .caps {background: url(../images/capsLock.png) no-repeat 0px 0px; width:55px; height:35px;}
+        td .space {background: url(../images/space.png) no-repeat 0px 0px; width:210px; height:35px;}
+        td strong {margin-left:4px; font-weight:normal;}
+        .kbRow {width:500px; background:#ffffff; padding-bottom:2px;}
+        .returnKeyRows {width:500px; height: 74px; background:#ffffff; }
+        .returnKeyRow {width:470px; height: 36px; background:#ffffff; }
+.returnLeft {width:470px; float:left;}
+.returnRight {width:30px; float:right; background: url(../images/enter.png) no-repeat 0px 0px; height:72px; margin-top:2px;}
